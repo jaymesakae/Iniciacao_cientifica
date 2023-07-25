@@ -1,5 +1,6 @@
 # Iniciação Científica
 
+teste
 Este repositório contém minha iniciação científica em parceria com o Dr. Prof. Cesar Henrique Comin. Este repositório está dividido em diferentes notebooks python.
 
 Atualmente estou no desenvolvimento para replicar a métologia aplicada no artigo [1], onde é demonstrado uma métrica de remoção de arestas terminais de estruturas tubulares que são consideradas espurias, ou ruidos de segmentação.
